@@ -1,0 +1,8 @@
+Prerequisites
+=============
+
+#. Play Framework
+#. Java JDK
+#. Apache2
+
+Play framework will be installed via Git
